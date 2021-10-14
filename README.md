@@ -3,7 +3,7 @@
 Test repository created as part of the SeaChanges Workshop in Oslo 2021
 
 I'm hoping to learn the following things during this workshop
-1. More about creating and editing markdown files
+1. More about creating and editing markdown files, committing changes, submutting pull requests and merging documents.
 2. How I can incorporate GitHub into management of my code produced for my PhD
 3. How to properly present my GitHub profile
 
